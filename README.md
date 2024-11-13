@@ -7,5 +7,5 @@ It is also called the special case of Multiple Linear Regression in ML. Because 
 linear regression model to fit the complicated and non-linear functions and datasets.</p>
 
 <h3>Screenshots</h3>
-<a herf="output/Screenshot 2024-11-14 at 4.23.06 AM.png">
+<a herf="[output/Screenshot 2024-11-14 at 4.23.06 AM.png](https://github.com/bhavuksagar/Poly_Regression_App/blob/main/output/Screenshot%202024-11-14%20at%204.23.06%20AM.png?raw=true)">
 <a herf="output/Screenshot 2024-11-14 at 4.23.16 AM.png">
